@@ -1,6 +1,6 @@
 # npmtest-react-virtualized
 
-#### test coverage for  [react-virtualized (v9.7.3)](https://github.com/bvaughn/react-virtualized)  [![npm package](https://img.shields.io/npm/v/npmtest-react-virtualized.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-virtualized) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-virtualized.svg)](https://travis-ci.org/npmtest/node-npmtest-react-virtualized)
+#### basic test coverage for  [react-virtualized (v9.7.3)](https://github.com/bvaughn/react-virtualized)  [![npm package](https://img.shields.io/npm/v/npmtest-react-virtualized.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-virtualized) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-virtualized.svg)](https://travis-ci.org/npmtest/node-npmtest-react-virtualized)
 
 #### React components for efficiently rendering large, scrollable lists and tabular data
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-react-virtualized/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-react-virtualized/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-react-virtualized/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-react-virtualized/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-virtualized/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-virtualized/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-react-virtualized/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-react-virtualized/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-virtualized/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-virtualized/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-react-virtualized/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-react-virtualized/build/coverage.html/index.html)
 
@@ -212,7 +212,8 @@
         ]
     },
     "user": "bvaughn",
-    "version": "9.7.3"
+    "version": "9.7.3",
+    "bin": {}
 }
 ```
 
