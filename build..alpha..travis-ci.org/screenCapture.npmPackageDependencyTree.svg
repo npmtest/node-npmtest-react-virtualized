@@ -9,7 +9,7 @@
 <tspan x="10" y="106">└─┬ react-virtualized@9.7.3 </tspan>
 <tspan x="10" y="122">  ├─┬ babel-runtime@6.23.0 </tspan>
 <tspan x="10" y="138">  │ ├── core-js@2.4.1 </tspan>
-<tspan x="10" y="154">  │ └── regenerator-runtime@0.10.3 </tspan>
+<tspan x="10" y="154">  │ └── regenerator-runtime@0.10.4 </tspan>
 <tspan x="10" y="170">  ├── classnames@2.2.5 </tspan>
 <tspan x="10" y="186">  ├── dom-helpers@3.2.1 </tspan>
 <tspan x="10" y="202">  ├─┬ loose-envify@1.3.1 </tspan>
@@ -20,7 +20,7 @@
 <tspan x="10" y="282">      ├─┬ isomorphic-fetch@2.2.1 </tspan>
 <tspan x="10" y="298">      │ ├─┬ node-fetch@1.6.3 </tspan>
 <tspan x="10" y="314">      │ │ ├─┬ encoding@0.1.12 </tspan>
-<tspan x="10" y="330">      │ │ │ └── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="330">      │ │ │ └── iconv-lite@0.4.16 </tspan>
 <tspan x="10" y="346">      │ │ └── is-stream@1.1.0 </tspan>
 <tspan x="10" y="362">      │ └── whatwg-fetch@2.0.3 </tspan>
 <tspan x="10" y="378">      ├── object-assign@4.1.1 </tspan>
